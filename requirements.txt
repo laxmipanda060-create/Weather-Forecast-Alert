@@ -1,4 +1,4 @@
+Flask
 requests
-pandas
-matplotlib
-pytest
+python-dotenv
+gunicorn
